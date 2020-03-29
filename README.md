@@ -7,7 +7,7 @@ Roll number : 2 <br />
 
 
 
-The code for Unit 1 consists of the following topics: <br />
+The code for <b>Unit 1</b> consists of the following topics: <br />
 (1) Gaussian Elimination. <br />
 (2) LU Decomposition of the marix.  <br />
 (3) Gauss-Jordan method to find inverses.  <br />
