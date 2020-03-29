@@ -1,4 +1,4 @@
-# LinearAlgebra_Scilab-Assignments-
+# Linear Algebra - Scilab Assignments
 This repository containts the Scilab Code for the course - Linear Algebra and Its Applications  (UE18MA251).
 
 The code for Unit 1 consists of the following topics:
