@@ -12,3 +12,7 @@ The code for <b>Unit 1</b> consists of the following topics: <br />
 (2) LU Decomposition of the marix.  <br />
 (3) Gauss-Jordan method to find inverses.  <br />
 The solution is found for 3 X 3 matrices.  <br />
+
+The Scilab code for <b>Unit 2</b> contains:
+(1) Finding the span of a matrix (called 'mat') <br/>
+(2) Finding the 4 subspaces - column space, row space, null space, and left null space - for a given matrix 'mat' <br/>
