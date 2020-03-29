@@ -1,5 +1,5 @@
 # Linear Algebra - Scilab Assignments
-This repository containts the Scilab Code for the course - Linear Algebra and Its Applications  (UE18MA251).
+This repository contains the Scilab Code for the course - Linear Algebra and Its Applications  (UE18MA251).
 
 Name : Anind <br />
 Section : I <br />
