@@ -21,3 +21,8 @@ The Scilab code for <b>Unit 2</b> contains:<br/>
 
 The Scilab code for <b>Unit 3</b> contains:<br/>
 (1) Code for projection by least squares. <br/>
+
+The Scilab code for <b>Unit 4</b> contains:>br/>
+(1) Eigen values and vectors
+(2) Gram Schimdt Orthogonalization
+(3) Rayleigh Power Method
